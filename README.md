@@ -1,5 +1,7 @@
 # HTMLAIOS
 
+**[Try it live →](https://ikersl.github.io/htmlaios/)**
+
 A fake operating system where every screen is generated live by an LLM.
 
 There's no pre-built UI. Every desktop, terminal, file manager window, and
